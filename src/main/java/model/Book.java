@@ -1,4 +1,4 @@
-package guru.springframework.spring5webapp;
+package model;
 
 import javax.annotation.Generated;
 import javax.persistence.*;
